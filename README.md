@@ -21,6 +21,6 @@ sl = ShoppingList()
 sl.add_recipe(recipe, 2.0)
 
 # Получаем итоговый список
-print(sl.get_list())
+print(sl.get_list())```
 
 Проект делал Сивицкий Максим, группа БИ2510 :)
